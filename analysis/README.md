@@ -4,7 +4,7 @@ I exported data from the music school org in this repo, built an operations anal
 
 ![Dashboard](dashboard.png)
 
-**Live workbook (view only):** [link]
+**Live workbook (view only):** [(https://1drv.ms/x/c/d27ccacc197bb1fb/IQCWDMpl_WjsT6Tw-OnoNZKbAa4Kksup4_aSOf-8YwDJqsg?e=c8uBaH)]
 **File:** `Music_Academy_Ops_Analysis.xlsx`
 
 ---
