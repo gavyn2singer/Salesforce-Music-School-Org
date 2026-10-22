@@ -6,7 +6,7 @@ Built solo in a Salesforce Developer Edition org with sample data, September 202
 
 **Salesforce Certified Platform Administrator**
 
-**[Watch the 5-minute demo](https://youtu.be/9x16qqElUB8)** · [LinkedIn](https://www.linkedin.com/in/gavyn-singer/) · [Verify certification](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=mqmguzTDDOdm33I+/MR65skwKcnP63bJT0eFOE2tuioxZF80wNz4JYleLjQcD1mI)
+**[Watch the 5-minute demo](https://youtu.be/cb_qSZLVt1I)** · [LinkedIn](https://www.linkedin.com/in/gavyn-singer/) · [Verify certification](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=mqmguzTDDOdm33I+/MR65skwKcnP63bJT0eFOE2tuioxZF80wNz4JYleLjQcD1mI)
 
 ![Enrollment Director dashboard: open inquiries by age, average days to first response, open and lost inquiry funnels, and conversions and conversion rate by lead source](docs/images/01-enrollment-dashboard.png)
 
