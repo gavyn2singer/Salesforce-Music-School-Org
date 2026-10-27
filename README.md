@@ -4,6 +4,8 @@ I built a Salesforce CRM for a fictional music school with three locations. It r
 
 Built solo in a Salesforce Developer Edition org with sample data, September 2026. All of the org configuration is declarative: Flow Builder, validation rules, permission sets, sharing rules, and Lightning reports and dashboards.
 
+Tableau dashboard on this org's inquiry data: see [/tableau](tableau/).
+
 **Salesforce Certified Platform Administrator**
 
 **[Watch the 5-minute demo](https://youtu.be/cb_qSZLVt1I)** · [LinkedIn](https://www.linkedin.com/in/gavyn-singer/) · [Verify certification](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=mqmguzTDDOdm33I+/MR65skwKcnP63bJT0eFOE2tuioxZF80wNz4JYleLjQcD1mI)
