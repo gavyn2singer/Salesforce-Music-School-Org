@@ -1,0 +1,141 @@
+inquiry_id,studio,lead_source,status,inquiry_date,inquiry_month,days_to_respond,finished,days_open,response_bucket,outcome_group
+a09ak00002KAZXtAAP,Brick Studio,Event,Converted,2026-02-19,2026-02,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZXuAAP,Toms River Studio,Facebook,Not Interested,2026-03-14,2026-03,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZXvAAP,Brick Studio,Google Search,Converted,2026-03-21,2026-03,5.0,Yes,,3. 3-7 days,Converted
+a09ak00002KAZXwAAP,Brick Studio,Phone Call,Unresponsive,2026-08-26,2026-08,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZXxAAP,Red Bank Studio,Event,New,2026-03-09,2026-03,,No,231.0,5. Never contacted,Never contacted
+a09ak00002KAZXyAAP,Brick Studio,Google Search,Not Interested,2026-02-13,2026-02,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZXzAAP,Brick Studio,Event,Not Interested,2026-06-20,2026-06,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZY0AAP,Brick Studio,Phone Call,Converted,2026-05-20,2026-05,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZY1AAP,Brick Studio,Instagram,Not Interested,2026-07-18,2026-07,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZY2AAP,Red Bank Studio,Website Form,Converted,2026-03-20,2026-03,1.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAZY3AAP,Toms River Studio,Instagram,New,2026-06-26,2026-06,,No,122.0,5. Never contacted,Never contacted
+a09ak00002KAZY4AAP,Brick Studio,Phone Call,Converted,2026-04-17,2026-04,1.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAZY5AAP,Brick Studio,Facebook,New,2026-07-11,2026-07,,No,107.0,5. Never contacted,Never contacted
+a09ak00002KAZY6AAP,Toms River Studio,Facebook,Not Interested,2026-05-12,2026-05,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZY7AAP,Red Bank Studio,Event,Converted,2026-04-14,2026-04,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZY8AAP,Toms River Studio,Referral,Unresponsive,2026-03-16,2026-03,5.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZY9AAP,Toms River Studio,Google Search,Unresponsive,2026-02-14,2026-02,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZYAAA5,Red Bank Studio,Google Search,Not Interested,2026-08-29,2026-08,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZYBAA5,Red Bank Studio,Website Form,Unresponsive,2026-03-31,2026-03,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYCAA5,Brick Studio,Facebook,Not Interested,2026-07-29,2026-07,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYDAA5,Brick Studio,Phone Call,Not Interested,2026-03-11,2026-03,2.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYEAA5,Brick Studio,Referral,Unresponsive,2026-04-22,2026-04,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZYFAA5,Brick Studio,Website Form,Converted,2026-08-12,2026-08,3.0,Yes,,3. 3-7 days,Converted
+a09ak00002KAZYGAA5,Toms River Studio,Walk-In,Not Interested,2026-04-17,2026-04,-105.0,Yes,,6. Data issue,Lost
+a09ak00002KAZYHAA5,Red Bank Studio,Walk-In,Unresponsive,2026-09-08,2026-09,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYIAA5,Brick Studio,Website Form,Converted,2026-06-12,2026-06,5.0,Yes,,3. 3-7 days,Converted
+a09ak00002KAZYJAA5,Red Bank Studio,Facebook,Not Interested,2026-05-18,2026-05,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYKAA5,Brick Studio,Facebook,Unresponsive,2026-05-12,2026-05,2.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYLAA5,Red Bank Studio,Walk-In,Not Interested,2026-04-16,2026-04,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYMAA5,Red Bank Studio,Referral,Unresponsive,2026-06-17,2026-06,5.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZYNAA5,Toms River Studio,Facebook,Unresponsive,2026-06-12,2026-06,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYOAA5,Toms River Studio,Phone Call,Unresponsive,2026-07-17,2026-07,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYPAA5,Toms River Studio,Website Form,Converted,2026-08-29,2026-08,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZYQAA5,Brick Studio,Referral,Not Interested,2026-05-31,2026-05,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYRAA5,Red Bank Studio,Google Search,Converted,2026-06-27,2026-06,9.0,Yes,,4. 8+ days,Converted
+a09ak00002KAZYSAA5,Toms River Studio,Instagram,Converted,2026-02-27,2026-02,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZYTAA5,Toms River Studio,Event,Unresponsive,2026-05-19,2026-05,9.0,Yes,,4. 8+ days,Lost
+a09ak00002KAZYUAA5,Red Bank Studio,Walk-In,New,2026-02-05,2026-02,,No,263.0,5. Never contacted,Never contacted
+a09ak00002KAZYVAA5,Red Bank Studio,Website Form,Converted,2026-08-21,2026-08,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZYWAA5,Toms River Studio,Phone Call,Unresponsive,2026-09-09,2026-09,9.0,Yes,,4. 8+ days,Lost
+a09ak00002KAZYXAA5,Brick Studio,Phone Call,Not Interested,2026-06-25,2026-06,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZYYAA5,Toms River Studio,Facebook,Unresponsive,2026-03-25,2026-03,9.0,Yes,,4. 8+ days,Lost
+a09ak00002KAZYZAA5,Red Bank Studio,Event,Converted,2026-03-30,2026-03,1.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAZYaAAP,Red Bank Studio,Referral,Unresponsive,2026-08-03,2026-08,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYbAAP,Toms River Studio,Google Search,Converted,2026-05-05,2026-05,5.0,Yes,,3. 3-7 days,Converted
+a09ak00002KAZYcAAP,Toms River Studio,Event,Converted,2026-02-16,2026-02,9.0,Yes,,4. 8+ days,Converted
+a09ak00002KAZYdAAP,Red Bank Studio,Website Form,Unresponsive,2026-06-21,2026-06,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYeAAP,Brick Studio,Phone Call,Converted,2026-05-22,2026-05,2.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAZYfAAP,Toms River Studio,Walk-In,Converted,2026-03-20,2026-03,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZYgAAP,Red Bank Studio,Referral,Unresponsive,2026-06-13,2026-06,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYhAAP,Brick Studio,Referral,Unresponsive,2026-07-20,2026-07,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYiAAP,Red Bank Studio,Event,Not Interested,2026-03-02,2026-03,82.0,Yes,,4. 8+ days,Lost
+a09ak00002KAZYjAAP,Red Bank Studio,Facebook,Unresponsive,2026-07-13,2026-07,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYkAAP,Red Bank Studio,Phone Call,Not Interested,2026-02-25,2026-02,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYlAAP,Toms River Studio,Google Search,Converted,2026-04-30,2026-04,3.0,Yes,,3. 3-7 days,Converted
+a09ak00002KAZYmAAP,Red Bank Studio,Google Search,Not Interested,2026-05-05,2026-05,5.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZYnAAP,Red Bank Studio,Instagram,Unresponsive,2026-07-17,2026-07,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYoAAP,Toms River Studio,Phone Call,New,2026-05-01,2026-05,,No,178.0,5. Never contacted,Never contacted
+a09ak00002KAZYpAAP,Brick Studio,Walk-In,Unresponsive,2026-02-22,2026-02,2.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYqAAP,Red Bank Studio,Google Search,New,2026-05-23,2026-05,,No,156.0,5. Never contacted,Never contacted
+a09ak00002KAZYrAAP,Red Bank Studio,Instagram,Not Interested,2026-09-05,2026-09,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYsAAP,Red Bank Studio,Referral,Converted,2026-04-26,2026-04,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZYtAAP,Red Bank Studio,Phone Call,Not Interested,2026-08-16,2026-08,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZYuAAP,Red Bank Studio,Phone Call,Not Interested,2026-05-25,2026-05,2.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYvAAP,Toms River Studio,Event,Converted,2026-04-23,2026-04,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZYwAAP,Brick Studio,Instagram,Converted,2026-06-04,2026-06,9.0,Yes,,4. 8+ days,Converted
+a09ak00002KAZYxAAP,Brick Studio,Phone Call,Not Interested,2026-09-11,2026-09,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZYyAAP,Brick Studio,Walk-In,Converted,2026-08-30,2026-08,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZYzAAP,Red Bank Studio,Facebook,New,2026-09-14,2026-09,,No,42.0,5. Never contacted,Never contacted
+a09ak00002KAZZ0AAP,Red Bank Studio,Website Form,Unresponsive,2026-02-19,2026-02,-18.0,Yes,,6. Data issue,Lost
+a09ak00002KAZZ1AAP,Brick Studio,Instagram,Not Interested,2026-02-02,2026-02,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZZ2AAP,Toms River Studio,Walk-In,New,2026-02-26,2026-02,,No,242.0,5. Never contacted,Never contacted
+a09ak00002KAZZ3AAP,Red Bank Studio,Phone Call,Converted,2026-06-14,2026-06,1.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAZZ4AAP,Brick Studio,Facebook,New,2026-07-05,2026-07,,No,113.0,5. Never contacted,Never contacted
+a09ak00002KAZZ5AAP,Toms River Studio,Referral,Unresponsive,2026-07-31,2026-07,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZZ6AAP,Brick Studio,Phone Call,New,2026-05-20,2026-05,,No,159.0,5. Never contacted,Never contacted
+a09ak00002KAZZ7AAP,Brick Studio,Referral,Not Interested,2026-08-12,2026-08,5.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZZ8AAP,Brick Studio,Instagram,Converted,2026-05-03,2026-05,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZZ9AAP,Brick Studio,Referral,Converted,2026-08-06,2026-08,0.0,Yes,,1. Same day,Converted
+a09ak00002KAZZAAA5,Red Bank Studio,Google Search,Unresponsive,2026-05-24,2026-05,2.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZZBAA5,Brick Studio,Google Search,Converted,2026-08-18,2026-08,5.0,Yes,,3. 3-7 days,Converted
+a09ak00002KAZZCAA5,Toms River Studio,Website Form,Not Interested,2026-04-05,2026-04,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZZDAA5,Toms River Studio,Google Search,Unresponsive,2026-05-08,2026-05,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZZEAA5,Brick Studio,Instagram,Not Interested,2026-08-04,2026-08,2.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZZFAA5,Red Bank Studio,Walk-In,Unresponsive,2026-06-01,2026-06,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZZGAA5,Toms River Studio,Walk-In,Unresponsive,2026-08-07,2026-08,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZZHAA5,Red Bank Studio,Referral,Not Interested,2026-07-05,2026-07,0.0,Yes,,1. Same day,Lost
+a09ak00002KAZZIAA5,Red Bank Studio,Walk-In,New,2026-06-26,2026-06,,No,122.0,5. Never contacted,Never contacted
+a09ak00002KAZZJAA5,Red Bank Studio,Walk-In,Converted,2026-05-04,2026-05,1.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAZZKAA5,Red Bank Studio,Phone Call,Converted,2026-05-15,2026-05,1.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAZZLAA5,Toms River Studio,Event,Not Interested,2026-05-13,2026-05,5.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZZMAA5,Red Bank Studio,Instagram,Converted,2026-02-28,2026-02,3.0,Yes,,3. 3-7 days,Converted
+a09ak00002KAZZNAA5,Red Bank Studio,Instagram,Not Interested,2026-03-11,2026-03,2.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAZZOAA5,Red Bank Studio,Referral,Not Interested,2026-04-18,2026-04,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAZZPAA5,Red Bank Studio,Phone Call,Converted,2026-06-29,2026-06,1.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAZZQAA5,Red Bank Studio,Facebook,Converted,2026-02-04,2026-02,0.0,Yes,,1. Same day,Converted
+a09ak00002KAgMPAA1,Brick Studio,Instagram,Trial Scheduled,2026-03-13,2026-03,199.0,No,227.0,4. 8+ days,Open
+a09ak00002KAgMQAA1,Brick Studio,Website Form,Converted,2026-08-23,2026-08,0.0,Yes,,1. Same day,Converted
+a09ak00002KAgMRAA1,Brick Studio,Website Form,Unresponsive,2026-06-09,2026-06,9.0,Yes,,4. 8+ days,Lost
+a09ak00002KAgMSAA1,Toms River Studio,Event,Not Interested,2026-02-21,2026-02,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMTAA1,Red Bank Studio,Referral,New,2026-02-17,2026-02,,No,251.0,5. Never contacted,Never contacted
+a09ak00002KAgMUAA1,Toms River Studio,Referral,Unresponsive,2026-02-11,2026-02,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAgMVAA1,Brick Studio,Phone Call,New,2026-05-13,2026-05,,No,166.0,5. Never contacted,Never contacted
+a09ak00002KAgMWAA1,Red Bank Studio,Referral,Unresponsive,2026-05-17,2026-05,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMXAA1,Brick Studio,Phone Call,Unresponsive,2026-03-11,2026-03,2.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAgMYAA1,Brick Studio,Instagram,Not Interested,2026-04-13,2026-04,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMZAA1,Brick Studio,Facebook,Converted,2026-07-20,2026-07,0.0,Yes,,1. Same day,Converted
+a09ak00002KAgMaAAL,Red Bank Studio,Instagram,Converted,2026-05-14,2026-05,3.0,Yes,,3. 3-7 days,Converted
+a09ak00002KAgMbAAL,Brick Studio,Website Form,New,2026-04-07,2026-04,,No,202.0,5. Never contacted,Never contacted
+a09ak00002KAgMcAAL,Red Bank Studio,Event,New,2026-08-19,2026-08,,No,68.0,5. Never contacted,Never contacted
+a09ak00002KAgMdAAL,Toms River Studio,Referral,Converted,2026-03-28,2026-03,0.0,Yes,,1. Same day,Converted
+a09ak00002KAgMeAAL,Red Bank Studio,Facebook,Converted,2026-02-26,2026-02,0.0,Yes,,1. Same day,Converted
+a09ak00002KAgMfAAL,Brick Studio,Google Search,Not Interested,2026-06-08,2026-06,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAgMgAAL,Red Bank Studio,Instagram,Contacted,2026-04-24,2026-04,157.0,No,185.0,4. 8+ days,Open
+a09ak00002KAgMhAAL,Red Bank Studio,Google Search,Not Interested,2026-08-19,2026-08,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMiAAL,Red Bank Studio,Event,Unresponsive,2026-03-17,2026-03,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMjAAL,Red Bank Studio,Phone Call,Converted,2026-02-10,2026-02,0.0,Yes,,1. Same day,Converted
+a09ak00002KAgMkAAL,Brick Studio,Referral,Unresponsive,2026-06-15,2026-06,3.0,Yes,,3. 3-7 days,Lost
+a09ak00002KAgMlAAL,Red Bank Studio,Event,Not Interested,2026-03-20,2026-03,9.0,Yes,,4. 8+ days,Lost
+a09ak00002KAgMmAAL,Red Bank Studio,Instagram,Unresponsive,2026-06-05,2026-06,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMnAAL,Red Bank Studio,Phone Call,New,2026-03-22,2026-03,,No,218.0,5. Never contacted,Never contacted
+a09ak00002KAgMoAAL,Red Bank Studio,Instagram,Converted,2026-07-28,2026-07,3.0,Yes,,3. 3-7 days,Converted
+a09ak00002KAgMpAAL,Red Bank Studio,Phone Call,Unresponsive,2026-07-02,2026-07,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMqAAL,Red Bank Studio,Website Form,Not Interested,2026-08-27,2026-08,2.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAgMrAAL,Brick Studio,Unknown,Not Interested,2026-08-02,2026-08,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAgMsAAL,Red Bank Studio,Event,Unresponsive,2026-03-22,2026-03,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAgMtAAL,Red Bank Studio,Google Search,New,2026-03-09,2026-03,,No,231.0,5. Never contacted,Never contacted
+a09ak00002KAgMuAAL,Brick Studio,Phone Call,Unresponsive,2026-06-12,2026-06,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMvAAL,Brick Studio,Facebook,Not Interested,2026-04-28,2026-04,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMwAAL,Brick Studio,Facebook,Unresponsive,2026-02-03,2026-02,9.0,Yes,,4. 8+ days,Lost
+a09ak00002KAgMxAAL,Brick Studio,Phone Call,Not Interested,2026-02-21,2026-02,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMyAAL,Red Bank Studio,Instagram,Unresponsive,2026-06-27,2026-06,0.0,Yes,,1. Same day,Lost
+a09ak00002KAgMzAAL,Toms River Studio,Walk-In,New,2026-08-11,2026-08,,No,76.0,5. Never contacted,Never contacted
+a09ak00002KAgN0AAL,Red Bank Studio,Walk-In,New,2026-02-17,2026-02,,No,251.0,5. Never contacted,Never contacted
+a09ak00002KAgN1AAL,Red Bank Studio,Google Search,Converted,2026-04-15,2026-04,1.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAgN2AAL,Red Bank Studio,Event,Converted,2026-02-09,2026-02,1.0,Yes,,2. 1-2 days,Converted
+a09ak00002KAyPlAAL,Toms River Studio,Facebook,Unresponsive,2026-03-09,2026-03,9.0,Yes,,4. 8+ days,Lost
+a09ak00002KAyPmAAL,Brick Studio,Event,Not Interested,2026-08-26,2026-08,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002KAyPnAAL,Red Bank Studio,Event,Not Interested,2026-05-09,2026-05,1.0,Yes,,2. 1-2 days,Lost
+a09ak00002Y0orRAAR,Brick Studio,Website Form,Converted,2026-10-01,2026-10,0.0,Yes,,1. Same day,Converted
